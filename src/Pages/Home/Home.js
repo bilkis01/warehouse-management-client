@@ -163,7 +163,7 @@ const Home = () => {
               {" "}
               <AiFillCar className="fs-1" />
             </div>
-            <span className="mt-2 fs-3">324</span>
+            <span className="mt-2 fs-3">124</span>
             <div className="mt-2 fs-3">VEHICLES</div>
           </div>
           <div className="col-lg-4 col-md-4 col-sm-4 col-12 text-light">
