@@ -1,0 +1,15 @@
+thead tr{
+    color: orangered;
+   text-transform: uppercase;
+}
+.delet-btn{
+    background-color: transparent;
+    font-size: 20px;
+}
+
+td{
+    padding: 1rem  !important;
+}
+.manage-inventory{
+    margin-bottom: 10rem !important;
+}

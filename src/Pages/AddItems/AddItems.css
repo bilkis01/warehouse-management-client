@@ -1,0 +1,10 @@
+.from-wraper{
+    height: 700px;
+}
+
+@media screen and (max-width:992px) {
+
+    .flex-group{
+   flex-direction: column;
+}
+}

@@ -1,0 +1,51 @@
+.authentication{
+    background-color: rgba(0, 0, 0, .9);
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.authentication-title {
+    color: white;
+    text-shadow: 2px 5px 10px rgba(206,89,55,1) !important;
+}
+/* .authentication-form{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+} */
+
+.input-group{
+    border: 1px solid orangered;
+    margin-bottom: 1rem;
+}
+.input-group input,textarea{
+    flex: 1;
+    padding: 8px;
+    border: none;
+    outline: none;
+}
+.input-group .icons{
+    background-color: orangered;
+    color: white;
+    padding: 8px;
+}
+.submit-btn{
+    background-color: orangered;
+    color: white;
+}
+.naviget-btn{
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}

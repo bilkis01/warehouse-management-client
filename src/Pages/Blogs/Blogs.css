@@ -1,0 +1,13 @@
+.blog{
+    margin: 3rem 0;
+}
+.blog .qus{
+    color: orangered;
+}
+.blog .ans{
+    line-height: 2.4;
+}
+.blog img{
+    height: 100% !important;
+    width: 100% !important;
+}

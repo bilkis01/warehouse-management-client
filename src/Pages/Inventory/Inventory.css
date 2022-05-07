@@ -1,0 +1,9 @@
+.singl-item img{
+    width: 100%;
+    height: 500px;
+}
+.deleverd-btn{
+    border: none;
+    background-color: orangered;
+    color: white;
+}
