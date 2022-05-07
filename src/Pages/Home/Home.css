@@ -1,0 +1,103 @@
+.h-banner{
+    background: url(../../imges/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100vw;
+}
+.h-banner-title{
+    font-weight: 900 !important;
+    text-shadow: 2px 5px 10px rgba(206,89,55,1) !important;
+}
+
+/* inventory items */
+.inventory-items{
+    overflow:  hidden !important;
+}
+
+.item{
+    /* border-top: 5px solid orangered; */
+    position: relative;
+    
+}
+.item::before{
+    content: '';
+    height: 1px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: orangered;
+    animation: slides 5s linear  infinite;
+}
+
+.item-name{
+    color: orangered;
+    padding: 10px 0;
+    text-shadow: 2px 5px 10px rgba(206,89,55,1) !important;
+}.item-des{
+    font-size: 13px;   
+}
+.item-price{
+    color: orangered;
+}.update-btn{
+    border: none;
+    outline: none;
+    background-color: orangered;
+    color: white;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}.update-btn:hover{
+    background-color: #dc3f15;
+}
+.h-navigate-btn{
+    border: none;
+    outline: none;
+    background-color: orangered;
+    color: white;
+}
+
+@keyframes slides {
+    0%{
+       transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+
+/* overview */
+.overview{
+    background: url(../../imges/banner2.png),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,.6));
+    min-height: 300px !important;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    
+}
+
+/* about */
+.about{
+    width: 100vw;
+    overflow: hidden !important;
+    
+}
+.abot-title span:nth-child(1){
+    font-size: 17px;
+    font-weight: 500;
+    display: block;
+}
+.abot-title span:nth-child(2){
+    font-size: 23px;
+    font-weight: 700;
+    display: block;
+}
+.about-des{
+    font-size: 14px;
+    margin: 1rem 0;
+}
