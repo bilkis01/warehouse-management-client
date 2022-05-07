@@ -48,7 +48,7 @@ const Home = () => {
           <div className="col-lg-6 col-md-6 col-12">
             <div className="abot-title">
               <span> We are a Trusted Name in Auto Industry</span>
-              <span>Visited by Million of Car Buyers Every Month!</span>
+              <span>Visited by Million of Car Buyers Every Month</span>
             </div>
             <p className="about-des ">
               Car Manager is nisi aliquip consequat duis velit esse cillum
