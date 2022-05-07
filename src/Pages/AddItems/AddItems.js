@@ -95,7 +95,7 @@ const AddItems = () => {
               />
             </div>
             {/* input groups */}
-            <div className="flex-group d-flex " style={{ gap: "10px" }}>
+            <div className="flex-group d-flex " style={{ gap: "9px" }}>
               <div className="input-group">
                 <span className="icons">
                   <BsCurrencyDollar />
