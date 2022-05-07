@@ -36,7 +36,7 @@ const Blogs = () => {
           </div>
           <div className="col-lg-8 col-md-8 col-12">
             <h4 className="qus">
-              When should you use nodejs and when should you use mongodb
+              When should you use nodeJs and when should you use mongodb
             </h4>
             <p className="ans">
               There are many web servers built with nodejs that will then use
