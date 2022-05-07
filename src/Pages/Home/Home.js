@@ -53,14 +53,13 @@ const Home = () => {
             <p className="about-des ">
               Car Manager is nisi aliquip consequat duis velit esse cillum
               dolore fugiat nulla pariatur excepteur sint occaecat. Lorem ipsum
-              dolor sit amet consectetur adipisicing elit sed eiusmod tempor
-              incididuntu labore et dolore magna aliqua enim ad minim veniam
-              quis nostrud exercitation ullamco laboris nisi aliquip. Duis aute
-              irure dolor in reprehenderit in voluptate velit ese cillum dolore
-              fugiat nulla pariatur excepteur sint occaecat cupidatat non
-              proident. Duis aute irure in reprehenderit in voluptate velit ese
-              cillum dolore fugiat nulla pariatur excepteur sint occaecat
-              cupidatat non proident.
+              amet consectetur adipisicing elit sed eiusmod tempor incididuntu
+              labore et dolore magna aliqua enim ad minim veniam quis nostrud
+              exercitation ullamco laboris nisi aliquip. Duis aute irure dolor
+              in reprehenderit in voluptate velit ese cillum dolore fugiat nulla
+              pariatur excepteur sint occaecat cupidatat non proident. Duis aute
+              irure in reprehenderit in voluptate velit ese cillum dolore fugiat
+              nulla pariatur excepteur sint occaecat cupidatat non proident.
             </p>
             <div className="about-info">
               <div className="">
