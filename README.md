@@ -2,7 +2,7 @@
 
 ## LIVE LINK
 
-[car-maneger](https://car-manager-e5d34.web.app/)
+[car-maneger](https://car-manager-3605f.web.app/)
 
 # Used Technologies
 
