@@ -1,11 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Header from "./Pages/Sheared/Header/Header";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-danger">app</h1>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
 

@@ -5,8 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden !important;
 }
-
+.bg-orangered{
+  background-color: orangered !important;
+}
+.text-orangered{
+  color: orangered !important;
+}
+.text-line{
+  text-decoration: line-through !important;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
