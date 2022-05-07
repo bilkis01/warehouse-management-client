@@ -46,7 +46,7 @@ const MyItems = () => {
   return (
     <div className="container my-5" style={{ minHeight: "80vh" }}>
       <h3 className="my-5 text-uppercase">
-        The Items You Added Is{" "}
+        The Items You are Added Is{" "}
         <span className="text-danger">{items.length}</span>
       </h3>
       <div className="inventory-items ">
