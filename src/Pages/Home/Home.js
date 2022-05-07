@@ -58,9 +58,9 @@ const Home = () => {
               quis nostrud exercitation ullamco laboris nisi aliquip. Duis aute
               irure dolor in reprehenderit in voluptate velit ese cillum dolore
               fugiat nulla pariatur excepteur sint occaecat cupidatat non
-              proident. Duis aute irure dolor in reprehenderit in voluptate
-              velit ese cillum dolore fugiat nulla pariatur excepteur sint
-              occaecat cupidatat non proident.
+              proident. Duis aute irure in reprehenderit in voluptate velit ese
+              cillum dolore fugiat nulla pariatur excepteur sint occaecat
+              cupidatat non proident.
             </p>
             <div className="about-info">
               <div className="">
